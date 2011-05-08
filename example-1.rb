@@ -15,10 +15,6 @@ code = %[
     return "Can you say polyglot programming?!";
   };
   
-  while (true) {
-    // HAHA
-  }
-  
   javascriptInMyJavaInMyRuby();
 ]
 
